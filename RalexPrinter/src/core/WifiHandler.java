@@ -13,7 +13,7 @@ import java.net.http.HttpResponse;
 import java.net.http.HttpResponse.BodyHandlers;
 
 public class WifiHandler {
-
+//g
 	static String chipIP = "http://192.168.0.115/";
 
 	public static void doStuff() {

@@ -14,7 +14,7 @@ import com.fazecast.jSerialComm.SerialPortDataListener;
 import com.fazecast.jSerialComm.SerialPortEvent;
 
 public class Main {
-
+	//!
 	public static void main(String[] args) {
 
 		//sendData(getPictureData());
